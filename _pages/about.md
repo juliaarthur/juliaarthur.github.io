@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Julia Dean"
+title: "Julia Arthur"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
