@@ -23,6 +23,9 @@ This work aims to understand the information and communication technology networ
 
 Past Projects
 ====
+### Computer Science Education Research   
+This line of research explores different pedagogical strategies to promote experiential learning in computer and information science settings. This looks at local and global classroom settings that promote different learning strategies for students. This resulted in three publications in SIGCSE!
+
 ["Tourism Gives an Image of the Mess": The Relation Between Tourism and Local Society in Maranhão, Brazil](https://scholar.colorado.edu/concern/undergraduate_honors_theses/q811kk18d)
 
 This research focused on how top-down governmental toruism policies impacted local culture and society on a rural population in Maranhão, Brazil. After conducting semi-structured interviews, I find that tourism has both negative and positive impacts on this society, and I offer policy recommendations to help better integrate and advocate for local culture.
