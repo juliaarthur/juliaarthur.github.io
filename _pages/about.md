@@ -22,7 +22,11 @@ As a second-career graduate student, I completely understand how difficult it is
 
 Updates 
 ====
-*_November 2024_*: I attended CSCW 2024 in San Jose, Costa Rica!
+*October 2025*: I attended CSCW in Bergen, Norway!
+
+*Fall 2025*: My first CSCW paper got accepted into CSCW 2027! The title of the paper is Mediating Infrastructural Competence: How Organizations Support Migrants’ Hierarchy of Needs. I'll see you in Salt Lake!
+
+*November 2024*: I attended CSCW 2024 in San Jose, Costa Rica!
 
 *August 2024*: My advisors were awarded an NSF IIS-HCC Medium grant to fund mine and my colleagues work on migration in the US!
 
